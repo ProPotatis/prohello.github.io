@@ -1,0 +1,24 @@
+h2 {
+	padding: 25px;
+}
+
+h1 {
+	padding: 25px;
+}
+
+h3 {
+	padding: 30px;
+}
+
+h4 {
+	padding: 30px;
+}
+
+.bild {
+	padding: 30px;
+}
+
+.navbar-inverse {
+	background-color: #D6EBF2;
+	color: black
+}
